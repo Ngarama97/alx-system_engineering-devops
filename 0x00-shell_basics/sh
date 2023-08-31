@@ -1,0 +1,5 @@
+sh -c "ls -la cd .. ls -la cd /boot ls -la" -c ls -la
+cd ..
+ls -la
+cd /boot
+ls -la
